@@ -1,0 +1,221 @@
+Start building sites … 
+hugo v0.110.0+extended linux/amd64 BuildDate=unknown
+WARN 2023/03/06 10:46:13 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+
+                   | EN | ZH-CN  
+-------------------+----+--------
+  Pages            |  7 |    12  
+  Paginator pages  |  0 |     0  
+  Non-page files   |  0 |     0  
+  Static files     | 73 |    73  
+  Processed images |  0 |     0  
+  Aliases          |  1 |     2  
+  Sitemaps         |  2 |     1  
+  Cleaned          |  0 |     0  
+
+Built in 135 ms
+Watching for changes in /root/bookheart.fun/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /root/bookheart.fun/config.toml, /root/bookheart.fun/themes/LoveIt/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://175.178.77.105:80/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+Start building sites … 
+hugo v0.110.0+extended linux/amd64 BuildDate=unknown
+WARN 2023/03/06 10:46:31 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+
+                   | EN | ZH-CN  
+-------------------+----+--------
+  Pages            |  7 |    12  
+  Paginator pages  |  0 |     0  
+  Non-page files   |  0 |     0  
+  Static files     | 73 |    73  
+  Processed images |  0 |     0  
+  Aliases          |  1 |     2  
+  Sitemaps         |  2 |     1  
+  Cleaned          |  0 |     0  
+
+Built in 145 ms
+Watching for changes in /root/bookheart.fun/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /root/bookheart.fun/config.toml, /root/bookheart.fun/themes/LoveIt/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://175.178.77.105:80/ (bind address 0.0.0.0)
+Press Ctrl+C to stop
+
+Change detected, rebuilding site.
+2023-03-06 11:48:04.476 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:48:04 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:48:41.477 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:48:41 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:50:04.477 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:50:04 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:50:10.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:50:10 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 22 ms
+
+Change of config file detected, rebuilding site.
+2023-03-06 11:51:27.977 +0800
+WARN 2023/03/06 11:51:28 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Rebuilt in 176 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:52:34.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:52:34 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:52:43.477 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:52:43 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 24 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:53:02.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:53:02 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:53:57.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:53:57 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:54:05.477 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:54:05 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:54:24.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:54:24 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:54:43.477 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:54:43 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:55:14.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:55:14 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:56:55.977 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:56:55 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 24 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:57:29.477 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:57:29 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+
+Change detected, rebuilding site.
+2023-03-06 11:58:07.976 +0800
+Source changed WRITE         "/root/bookheart.fun/content/posts/curious_1.md"
+WARN 2023/03/06 11:58:07 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+Total in 23 ms
+Start building sites … 
+hugo v0.110.0+extended linux/amd64 BuildDate=unknown
+WARN 2023/03/06 11:58:36 
+
+Current environment is "development". The "comment system", "CDN" and "fingerprint" will be disabled.
+当前运行环境是 "development". "评论系统", "CDN" 和 "fingerprint" 不会启用.
+
+                   | EN | ZH-CN  
+-------------------+----+--------
+  Pages            |  8 |    16  
+  Paginator pages  |  0 |     0  
+  Non-page files   |  0 |     0  
+  Static files     | 73 |    73  
+  Processed images |  0 |     0  
+  Aliases          |  1 |     5  
+  Sitemaps         |  2 |     1  
+  Cleaned          |  0 |     0  
+
+Built in 169 ms
+Watching for changes in /root/bookheart.fun/{archetypes,assets,content,data,layouts,static,themes}
+Watching for config changes in /root/bookheart.fun/config.toml, /root/bookheart.fun/themes/LoveIt/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://175.178.77.105:80/ (bind address 0.0.0.0)
+Press Ctrl+C to stop

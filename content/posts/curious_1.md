@@ -2,6 +2,9 @@
 title: "好奇日志第1期"
 date: 2023-03-05T22:02:42+08:00
 draft: true
+tags: ["摸鱼1"]
+series: ["好奇日志"]
+categories: ["探索"]
 ---
 
 ### 1. [活了3000年的橄榄树](https://mymodernmet.com/vouves-greek-olive-tree/)

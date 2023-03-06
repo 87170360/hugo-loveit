@@ -902,3 +902,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         Email = "xxxx@xxxx.com"
         Phone = "555-555-555"
         RSS = true
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+  category = "categories"
