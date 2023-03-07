@@ -9,7 +9,7 @@ categories: ["探索"]
 
 ### 1. [活了3000年的橄榄树](https://mymodernmet.com/vouves-greek-olive-tree/)
 
-![这是图片](https://mymodernmet.com/wp/wp-content/uploads/2023/02/Olive-tree-Vouves-2.jpg "Magic Gardens")
+![tree](https://mymodernmet.com/wp/wp-content/uploads/2023/02/Olive-tree-Vouves-2.jpg "Magic Gardens")
 这个树出生的年代是公元前77年。
  
 东方处于西汉元凤四年，汉遣傅介子到楼兰，刺杀楼兰王安归，立其弟尉屠耆为王，尉屠耆更名鄯善国，并将首都由罗布泊西岸迁往南岸的伊循城，向汉朝称臣，原都城楼兰古城则由汉朝派兵屯田。
@@ -24,3 +24,16 @@ categories: ["探索"]
 年薪加元从80K涨到base155K+RSU220K(4*25%)+sign-on20K+relocation10K
 
 北美竞争压力真是小
+
+
+### 3.[AI辅助写代码工具tabnine](https://www.tabnine.com)
+[作者个人简介](https://jacobjackson.com/about/)
+
+这个工具感觉用途不算特别大,如果网络不稳定还经常无效, 对我来说goland自身的辅助功能已经足够.
+作者还开发过一系列小游戏，特别有意思,画面特别简介，玩法特别有特效，还附带了很好玩的AI
+
+[游戏](https://jacobjackson.com/games/)
+
+作者很有商业头脑，游戏通关方法放在油管上
+
+
