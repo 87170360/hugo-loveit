@@ -51,7 +51,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 # Author config
 # 作者配置
 [author]
-  name = "刘书心"
+  name = "bookheart"
   email = "87170360@qq.com"
   link = ""
 
@@ -148,7 +148,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ""
+    #custom = ""
+    
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true
@@ -157,17 +158,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     copyright = true
     # whether to show the author
     # 是否显示作者
-    author = false
+    author = true
     # site creation time
     # 网站创立年份
     since = 2021
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     #icp = ""
-    icp = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    icp = '<a rel="license external nofollow noopener noreffer" href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021084517号</a>'
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2021084517号</a>'
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
