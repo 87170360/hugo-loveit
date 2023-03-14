@@ -114,6 +114,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
 
+# 统计插件
  [params.busuanzi]
 	enable = true
 
@@ -891,20 +892,20 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           gravatarEmail = ""
           avatarURL = "/images/avatar.png"
           title = ""
-          subtitle = "一个简洁、优雅且高效的 Hugo 主题"
+          subtitle = "探索有趣的世界"
           typeit = true
           social = true
           disclaimer = ""
       [languages.zh-cn.params.social]
-        GitHub = "xxxx"
-        Weibo = "xxxx"
-        Steam = "xxxx"
-        Zhihu = "xxxx"
-        Douban = "xxxx"
-        Devto = "xxxx"
-        Bilibili = "xxxx"
-        Email = "xxxx@xxxx.com"
-        Phone = "555-555-555"
+        GitHub = "87170360"
+        #Weibo = "xxxx"
+        #Steam = "xxxx"
+        #Zhihu = "xxxx"
+        #Douban = "xxxx"
+        #Devto = "xxxx"
+        #Bilibili = "xxxx"
+        Email = "87170360@qq.com"
+        #Phone = "555-555-555"
         RSS = true
 
 [taxonomies]
