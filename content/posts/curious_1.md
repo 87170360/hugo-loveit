@@ -1,7 +1,7 @@
 ---
 title: "好奇日志第1期"
 date: 2023-03-05T22:02:42+08:00
-draft: true
+draft: false
 tags: ["摸鱼1"]
 series: ["好奇日志"]
 categories: ["探索"]
