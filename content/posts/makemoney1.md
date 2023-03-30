@@ -15,8 +15,12 @@ categories: ["rich"]
 [![ppttyoq.jpg](https://s1.ax1x.com/2023/03/20/ppttyoq.jpg)](https://imgse.com/i/ppttyoq)
 
 ### 2. 购买工具
-mbp太贵，拼多多太多翻新，JD没有16G的, 最终官网选购
-macbook mini 16G 256G
+macbook mini 16G 256G 6000
+显示器dell P2421D 购买的二手 630, 搭配另一个P2418D组成了双显
+苹果键盘 530
+苹果触控板 699
+
+
 [![ppttflF.jpg](https://s1.ax1x.com/2023/03/20/ppttflF.jpg)](https://imgse.com/i/ppttflF)
 
 ### 3. 学习Xcode，swift, app开发
