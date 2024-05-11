@@ -113,6 +113,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/logo.png"]
+  #google analytics
+  googleAnalytics = "G-你的测量ID"
+
 
 # 统计插件
  [params.busuanzi]
